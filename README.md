@@ -1,11 +1,11 @@
 <h1 align="center">Hi,I'm Mohit Bansal:sparkles:</h1>
-<h3 align="center">A passionate Coding and Programming Learner</h3>
+<h3 align="center">A Coding and Programming Enthusiast</h3>
 <img align="right" alt="Coding"width="400"src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-bansal-31&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-bansal-31" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohit_bansal31" target="blank"><img src="https://img.shields.io/twitter/follow/mohit_bansal31?logo=twitter&style=for-the-badge" alt="mohit_bansal31" /></a> </p>
 
-- :seedling: I’m currently learning **C++**:zap:
+- :seedling: I’m currently learning **C**:zap:
 
 - :mailbox: Best way to reach me is through **Mohitbansal0031@gmail.com**:relaxed:
 
