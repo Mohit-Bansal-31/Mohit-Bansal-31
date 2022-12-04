@@ -16,6 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" alt="c" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="cplusplus" width="45" height="45"/> </a> </p>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" alt="c" width="45" height="45"/> </a> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="cplusplus" width="45" height="45"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-bansal-31&show_icons=true&locale=en" alt="mohit-bansal-31" /></p>
