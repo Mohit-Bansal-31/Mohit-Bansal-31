@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mohit_bansal31" target="blank"><img src="https://img.shields.io/twitter/follow/mohit_bansal31?logo=twitter&style=for-the-badge" alt="mohit_bansal31" /></a> </p>
 
-- :seedling: I’m currently learning **C++**:zap:
+- :seedling: I’m currently learning **Python**:zap:
 
-- :mailbox: Best way to reach me is through **Mohitbansal0031@gmail.com**:relaxed:
+- :mailbox: Best way to reach me is through ***mohitbansal0031@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
