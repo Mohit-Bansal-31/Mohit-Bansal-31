@@ -1,7 +1,9 @@
 <h1 align="center">✨ Hey there, I'm Mohit Bansal ✨</h1>
 <h3 align="center">💻 AI/ML Enthusiast | 🚀 Lifelong Learner | 🛠 Tech Explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<p align="center">
+    <img alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+</p>
 
 ---
 
