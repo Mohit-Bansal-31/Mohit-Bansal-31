@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/mohitbansal31" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
 <a href="mailto:mohitbansal0031@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 <!-- <a href="https://leetcode.com/u/mohitbansal0031/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>-->
-<a href="[https://www.kaggle.com/docs](https://www.kaggle.com/mohitbansal31s)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
+<a href="https://www.kaggle.com/mohitbansal31s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
 </a>
 </p>
 
@@ -53,7 +53,7 @@
     <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain"/></a>
     <a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/></a>
     <a href="https://numpy.org/doc/" target="_blank"><img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/></a>
-    <a href="https://scipy.org/docs.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48" height="48" alt="SciPy"/></a>
+    <a href="https://docs.scipy.org/doc/scipy/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="48" height="48" alt="SciPy"/></a>
 </p>
 
 ### 🌐 Web Technologies
