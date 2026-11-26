@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/mohitbansal31" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
 <a href="mailto:mohitbansal0031@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 <!-- <a href="https://leetcode.com/u/mohitbansal0031/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>-->
-<a href="https://www.kaggle.com/mohitbansal31s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
+<!-- <a href="https://www.kaggle.com/mohitbansal31s" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a> -->
 </a>
 </p>
 
