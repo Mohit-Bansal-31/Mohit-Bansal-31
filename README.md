@@ -13,10 +13,6 @@
 - 🔭 Researching **Transformer architectures** for multi-modal image fusion & building AI-powered applications.
 - 📫 Contact: **mohitbansal0031@gmail.com**  
 - ⚡ Fun fact: I sometimes debug my dreams in my sleep  
-- 🎯 2025 Goals:
-  - Publish research on AI model architectures
-  - Contribute to impactful open-source AI projects
-  - Build production-grade AI apps
 
 ---
 
